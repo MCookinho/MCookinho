@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Java, Python**
 
-- 🤓‍ Acttualy, i also make some games [https://mistercookinho.itch.io](https://mistercookinho.itch.io)
+- 🤓‍ Actually, i also make some games [https://mistercookinho.itch.io](https://mistercookinho.itch.io)
 
 - 💬 Ask me about:  **C++, C#, Python, Java, GML, Bash**
 
