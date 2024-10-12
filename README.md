@@ -7,7 +7,7 @@
 
 - 🤓‍ Acttualy, i also make some games [https://mistercookinho.itch.io](https://mistercookinho.itch.io)
 
-- 💬 Ask me about ** C++, C#, Python, Java, GML, Bash**
+- 💬 Ask me about ** C++, C#, Python, Java, GML, Bash **
 
 - 📫 How to reach me **joaopedroborgesprincipal@gmail.com**
 
