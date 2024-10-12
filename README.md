@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **joaopedroborgesprincipal@gmail.com**
 
-- ⚡ Fun fact, **shadow the hedgehog is literally me**
+- ⚡ Fun fact, **shadow the hedgehog is literally me!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
