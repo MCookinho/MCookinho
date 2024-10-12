@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Pedro Borges</h1>
-<h3 align="center">A student and developer from Brazil</h3>
+<h3 align="center">💻Computer Engineer | Software Developer | Technology Enthusiast| From Brazil</h3>
 
 ---
 
