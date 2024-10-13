@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Pedro Borges</h1>
+<h1 align="center">Hi 👋, I'm Peu Borges</h1>
 <h3 align="center">💻Computer Engineer | Software Developer | Technology Enthusiast| From Brazil</h3>
 
 ---
