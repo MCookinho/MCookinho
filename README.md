@@ -37,8 +37,9 @@
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/MCookinho" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MCookinho" height="30" width="40"/></a>
-  <a href="https://www.instagram.com/_peuborges_/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_peuborges_" height="30" width="40"/></a>
+  <a href="https://twitter.com/MCookinho" target="blank">🐦 Twitter / X</a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_peuborges_/" target="blank">📸 Instagram</a>
 </p>
 
 ---
