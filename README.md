@@ -37,9 +37,8 @@
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/MCookinho" target="blank">🐦 Twitter / X</a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_peuborges_/" target="blank">📸 Instagram</a>
+  <a href="https://twitter.com/MCookinho" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MCookinho" height="30" width="40"/></a>
+  <a href="https://www.instagram.com/_peuborges_/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_peuborges_" height="30" width="40"/></a>
 </p>
 
 ---
@@ -47,8 +46,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=MCookinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" alt="MCookinho" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MCookinho&layout=compact&langs_count=8&theme=tokyonight&locale=en" alt="MCookinho" />
+  <img height="155em" src="https://github-readme-stats-eight-beryl.vercel.app/api?username=MCookinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" alt="MCookinho" />
+  <img height="155em" src="https://github-readme-stats-eight-beryl.vercel.app/api/top-langs?username=MCookinho&layout=compact&langs_count=8&theme=tokyonight&locale=en" alt="MCookinho" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MCookinho&theme=tokyonight" alt="MCookinho" />
 </div>
