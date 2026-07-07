@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning: **Java, Python**
+- 🌱 I’m currently learning: **Java, Python, TypeScript**
 - 🎮 I also make some games: [mistercookinho.itch.io](https://mistercookinho.itch.io)
-- 💬 Ask me about: **C++, C#, Python, Java, GML, Bash**
+- 💬 Ask me about: **C++, C#, Python, Java, TypeScript, GML, Bash**
 - 📫 Reach me: **joaopedroborgesprincipal@gmail.com**
 - ⚡ Fun fact: **Shadow the Hedgehog is literally me!**
 
@@ -25,6 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
