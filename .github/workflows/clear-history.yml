@@ -1,0 +1,14 @@
+name: Clear History
+on: workflow_dispatch
+jobs:
+  clear:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          rm -rf History/
+          git config user.name "MCookinho"
+          git config user.email "ContatoPeuBorges@proton.me"
+          git add -A
+          git commit -m "chore: clear history and reset ID counter" || true
+          git push
